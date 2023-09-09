@@ -1,0 +1,63 @@
+{
+  "data": {
+    "pdfContent": {
+      "header": {
+        "name": "Anupam Dhakal",
+        "position": "Software Engineer",
+        "website": "www.anupamdhakal.com.np",
+        "email": "ad@gmail.com",
+        "phone": "+9779807054570"
+      },
+      "section": {
+        "summary": {
+          "description": "Seeking for the position of Frontend Developer in a company, which allows me to use my technical and development."
+        },
+        "education": [
+          {
+            "insituteName": "University of Bedfordshire University of BedfordshireUniversity of Bedfordshire",
+            "from": "Aug 2022",
+            "to": "Jul 2022",
+            "course": "Bachelor of Science (Honor’s): Computer Science & Software Engineering"
+          },
+          {
+            "insituteName": "Arniko Higher Secondary School",
+            "from": "Aug 2022",
+            "to": "Sep 2023",
+            "course": "+2 Science"
+          }
+        ],
+        "experience": [
+          {
+            "position": "Associate Software Engineer",
+            "company": "Tekvortex Pvt Ltd",
+            "from": "Apr 2022",
+            "to": "Current",
+            "description": [
+              "Created highly responsive and mobile friends designs for the peoject",
+              "Created highly responsive and mobile friends designs for the peoject"
+            ]
+          },
+          {
+            "position": "Associate Frontend Developer",
+            "company": "Medmax Innovation",
+            "from": "Jan 2022",
+            "to": "Apr 2021",
+            "description": [
+              "Created highly responsive and mobile friends designs for the peoject",
+              "Created highly responsive and mobile friends designs for the peoject",
+              "Created highly responsive and mobile friends designs for the peoject"
+            ]
+          }
+        ],
+        "skills": [
+          " Familiar with Context API for state management.",
+          "React Hooks, Routers, REST API, Consuming APIs, and reusable components.",
+          "JavaScript & CSS Preprocessors",
+          "Knowledge of MySQL, SQLite, and other RDBMS."
+        ]
+      }
+    },
+    "pdfColor": "pink"
+  },
+  "templateType": "default"
+}
